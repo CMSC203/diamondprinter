@@ -1,5 +1,5 @@
-Programming Project 1
-Write a program that displays the following pattern:
+# Programming Project 1
+## Write a program that displays the following pattern:
 
 
 That is, seven lines of output as follows:
